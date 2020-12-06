@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/player.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/maptest1.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/mapall.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/player1.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/player2.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/player3.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/Title.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/playerrinkusiro.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/beam.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/door.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/dooropend.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/Goal.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/playerrink.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/playerrinkmae.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/playerrinkmigi.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/maptest2.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/enemy.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/gameclear.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/GAMEOVER.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/tutorial.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/playerrinkmaescale.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/Box.png</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/Sound/playbgm.mp3</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/Sound/clearbgm.mp3</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/Sound/overbgm.mp3</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/Sound/enterse.mp3</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/Sound/doorse.mp3</File>
+    <File>C:/Users/K018A1407/Desktop/フォルダまとめ/2019Gamejam/2019Gamejam/Content/Sound/enemyse.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>
